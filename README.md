@@ -10,7 +10,7 @@ I'm a frontend developer with a passion for creating modern and responsive websi
 .
 * ✉️  You can contact me at [aravindshajan6@gmail.com](mailto:aravindshajan6@gmail.com)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshajan6"/>
 
 ### Skills
 
