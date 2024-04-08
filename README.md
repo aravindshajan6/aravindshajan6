@@ -11,7 +11,7 @@
 		<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 		<h2 align="left"  font-weight="bold">About me</h2>
 		<br><br>
-		<p>- I'm a frontend developer with a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS and JavaScript with experience in responsive design and web application development. Currently working on being a fully fledged MERN stack developer  ⌨🖱.
+		<p>- I'm a full stack developer with a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS and JavaScript with experience in responsive design and web application development. Currently working on being a fully fledged MERN stack developer  ⌨🖱.
 <br></p>
 	</div>
 	
