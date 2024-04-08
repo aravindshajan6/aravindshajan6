@@ -29,7 +29,12 @@
 
 <div>
 	<br>
+	<img src='https://readme-components.vercel.app/api?component=logo&logo=HTML'></img>
+	<img src='https://readme-components.vercel.app/api?component=logo&logo=css'></img>
+	<img src='https://readme-components.vercel.app/api?component=logo&logo=JS'></img>
 	<img src='https://readme-components.vercel.app/api?component=logo&logo=react'></img>
+ 
+
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
