@@ -29,6 +29,7 @@
 
 <div>
 	<br>
+	[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
