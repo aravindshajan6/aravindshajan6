@@ -39,8 +39,6 @@
 
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
-
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 
 </p>
