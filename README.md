@@ -35,11 +35,11 @@
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=8ed5fa">
 
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expressjs&svgfill=df5c43">  
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 
