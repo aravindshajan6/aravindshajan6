@@ -30,7 +30,7 @@
 <div>
 	<br>
 	<img src='https://readme-components.vercel.app/api?component=logo&logo=HTML'></img>
-	<img src='https://readme-components.vercel.app/api?component=logo&logo=css'></img>
+	<img src='https://readme-components.vercel.app/api?component=logo&logo=CSS'></img>
 	<img src='https://readme-components.vercel.app/api?component=logo&logo=JS'></img>
 	<img src='https://readme-components.vercel.app/api?component=logo&logo=react'></img>
  
