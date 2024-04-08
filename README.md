@@ -55,8 +55,7 @@
 
 </p>
 
-	<p align="left">
-
+	
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
 
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
@@ -66,8 +65,6 @@
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
 
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
-
-</p>
  
 
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
