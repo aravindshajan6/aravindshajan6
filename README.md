@@ -22,8 +22,8 @@
 
 
 <div >
-	<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshajan6"/>
-	<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=aravindshajan6&repo=portfolio"/>
+<!-- 	<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshajan6"/> -->
+<!-- 	<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=aravindshajan6&repo=portfolio"/> -->
 	<br><br><br><br><br><br><br><br><br>
 </div>
 
@@ -31,7 +31,9 @@
 	<br>
 	<p align="left">  
 		
- <br><br><br><br>
+ <br><br>
+
+ <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 
@@ -55,18 +57,10 @@
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+
 </p>
 
-	
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
-
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
-
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
-
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
-
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
  
 
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
