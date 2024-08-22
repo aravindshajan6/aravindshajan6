@@ -60,15 +60,13 @@
 
 </p>
 
- <div style="display: flex; justify-content: space-between;">
-	<a>
-		(https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
-	</a>
-	<a>
-		(https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
-	</a>
 	
-</div>
+(https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
+	
+	
+(https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
+	
+	
 
 ### Now Playing 🎧
 
