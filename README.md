@@ -67,6 +67,9 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
 <br/>
 
+![Aravind's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
+<br />
+
 </table>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on </h3>
