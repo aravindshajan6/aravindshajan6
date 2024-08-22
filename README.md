@@ -25,7 +25,7 @@
 
 <div >
 	<!-- github status box -->
-	<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshajan6"/>
+<!-- 	<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindshajan6"/> -->
 	<br><br><br><br><br><br><br><br><br>
 </div>
 
