@@ -90,8 +90,7 @@
 </p> 
 <!-- Bottom Header Image -->
 <p align="center">
-  ![Bottom Header](https://github.com/aravindshajan6/aravindshajan6/blob/3fbba2ac829ac2a384dcf59dae5bcddfd63eca39/bottom_header.svg)
-		
+  <img src="https://github.com/aravindshajan6/aravindshajan6/blob/3fbba2ac829ac2a384dcf59dae5bcddfd63eca39/bottom_header.svg" alt="Bottom Header">
 </p>
 
 
