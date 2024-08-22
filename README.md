@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=MERN+stack+developer;Tech+enthusiast" alt="Typing SVG" /></a>
 </p>
-<br><br>
 
 <div>
 	<div>
