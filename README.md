@@ -86,10 +86,13 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		
 </div>
-
+	
 </p> 
-![Aravind Shajan](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
+<div>
+	https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg
+</div>
+
+
 
 
 
