@@ -35,7 +35,7 @@
 	<br>
 	<p align="left">  
 		
- <br><br>
+ <br>
 
  <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <!-- Skill set ICONS-->
