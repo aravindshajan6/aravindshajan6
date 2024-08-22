@@ -19,18 +19,18 @@
 	
 </div>
   
-<br><br><br><br>
+<br><br>
 
-
-
+<!-- Github Information containers -->
 <div style="display: flex; justify-content: space-between;">
 	<a href="https://github.com/aravindshajan6">
-		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aravindshajan6&theme=radical&title_color=ff3068" alt="GitHub Stats">
+		<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=aravindshajan6&theme=radical&title_color=ff3068" alt="GitHub Stats">
 	</a>
   	<a href="https://github.com/aravindshajan6">
-		<img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=aravindshajan6&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak Stats">
+		<img width="48%" height="200" src="http://github-readme-streak-stats.herokuapp.com/?user=aravindshajan6&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak Stats">
 	</a>
 </div>
+
 
 <div>
 	<br>
