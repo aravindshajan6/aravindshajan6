@@ -69,6 +69,12 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
 <br />
 
+<h3 align="center">Now Playing 🎧</h3>
+<div align="center">
+	[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
+</div>	
+<br />
+
 </table>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on </h3>
