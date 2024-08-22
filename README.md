@@ -62,8 +62,8 @@
 
 		
 	
-https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true
-	
+![Aravind's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
+<br />	
 	
 
 ### Now Playing 🎧
