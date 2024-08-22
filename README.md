@@ -60,15 +60,12 @@
 </p>
 
 		
-	
+<!-- Languages used-->
+
 ![Aravind's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
 <br />	
 	
-
-### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
-<br />
-
+<!-- Spotify Now playing-->
 <h3 align="center">Now Playing 🎧</h3>
 <div align="center">
 	
