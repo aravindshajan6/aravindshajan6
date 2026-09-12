@@ -1,101 +1,80 @@
-
-<h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Aravind Shajan </h1>
-<br><br>
-<!-- Typerwriter Effect  -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=MERN+stack+developer;Tech+enthusiast" alt="Typing SVG" /></a>
-</p>
-
-<div>
-	<div>
-		<!-- Hooded coder GIF -->
-		<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-		<h2 align="left"  font-weight="bold">About me</h2>
-		<br><br>
-		<p>- I'm a full stack developer with a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS and JavaScript with experience in responsive design and web application development.  ⌨🖱.
-<br></p>
-	</div>
-	
-</div>
-  
-<br><br>
-
-<!-- Github Information containers -->
-<div style="display: flex; justify-content: space-between;">
-	<a href="https://github.com/aravindshajan6">
-		<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=aravindshajan6&theme=radical&title_color=ff3068" alt="GitHub Stats">
-	</a>
-  	<a href="https://github.com/aravindshajan6">
-		<img width="48%" height="200" src="http://github-readme-streak-stats.herokuapp.com/?user=aravindshajan6&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak Stats">
-	</a>
-</div>
-
-
-<div>
-	<br>
-	<p align="left">  
-		
- <br>
-
- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<!-- Skill set ICONS-->
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=2d79c7">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=8ed5fa">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=df5c43">  
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-
-
-</p>
-<br />
-<br />
-		
-<!-- Languages used-->
-
-![Aravind's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aravindshajan6&layout=compact&langs_count=8&hide_border=true)
-<br />	
-	
-<!-- Spotify Now playing-->
-<h3 align="center">Now Playing 🎧</h3>
-<div align="center">
-	
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1r6gjgp7dau4g49i5kdfmyme3)
-</div>	
-<br />
-
-</table>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on </h3>
+<a href="https://aravindshajan6.github.io/react-portfolio/">
+  <img src="assets/hero.svg" width="100%" alt="ARAVIND SHAJAN — full stack developer · python automation · MERN apps · three.js">
+</a>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/aravindshajan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Aravindshajan">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
-</div>
-	
-</p> 
-<!-- Bottom Header Image -->
-<p align="center">
-  <img src="https://github.com/aravindshajan6/aravindshajan6/blob/3fbba2ac829ac2a384dcf59dae5bcddfd63eca39/bottom_header.svg" alt="Bottom Header">
+  <a href="https://aravindshajan6.github.io/react-portfolio/"><img src="assets/links/portfolio.svg" height="40" alt="portfolio"></a>
+  <a href="https://www.linkedin.com/in/aravindshajan/"><img src="assets/links/linkedin.svg" height="40" alt="linkedin"></a>
+  <a href="mailto:aravindshajan6@gmail.com"><img src="assets/links/mail.svg" height="40" alt="email"></a>
+  <a href="https://aravindshajan6.github.io/react-portfolio/#contact"><img src="assets/links/hire.svg" height="40" alt="hire me"></a>
 </p>
 
+<img src="assets/terminal.svg" width="100%" alt="$ whoami → aravind shajan, full stack developer @ synctric, kerala. $ sudo hire aravind → APPROVED">
 
+### `~/stack`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,threejs,sass,nodejs,express,fastapi,mongodb,postgres,mysql,redis,supabase,docker,nginx,git,github,azure,selenium,solidity,linux&perline=8" alt="JavaScript, TypeScript, Python, React, Next.js, Tailwind, Three.js, Sass, Node.js, Express, FastAPI, MongoDB, Postgres, MySQL, Redis, Supabase, Docker, nginx, Git, GitHub, Azure, Selenium, Solidity, Linux">
+  <br>
+  <sub><code>+ playwright · socket.io · drizzle · anime.js · react-three-fiber · razorpay</code> — the ones that don't have an icon yet</sub>
+</p>
 
+### `~/featured`
 
+<p align="center">
+  <a href="https://auctioneer.sapper.top/"><img src="assets/projects/auctioneer.svg" width="49%" alt="Auctioneer — live auction house with real-time bidding"></a>
+  <a href="https://valodex.sapper.top"><img src="assets/projects/valodex.svg" width="49%" alt="Valodex — a Valorant codex in Three.js"></a>
+</p>
+<p align="center">
+  <a href="https://sportscast.sapper.top"><img src="assets/projects/sportscast.svg" width="49%" alt="Sportscast — live football scores and match centre"></a>
+  <a href="https://ecommerce-dashboard-a3ap.onrender.com/"><img src="assets/projects/nova-commerce.svg" width="49%" alt="Nova Commerce — e-commerce analytics with a 3D order globe"></a>
+</p>
+<p align="center">
+  <a href="https://elecstore-web.onrender.com/"><img src="assets/projects/elecstore.svg" width="49%" alt="Elecstore — tech storefront with Razorpay checkout"></a>
+  <a href="https://steaminc.onrender.com/"><img src="assets/projects/steaminc.svg" width="49%" alt="Steaminc — find where any movie is streaming"></a>
+</p>
+<p align="center">
+  <sub>source →
+    <a href="https://github.com/aravindshajan6/auctioneer">auctioneer</a> ·
+    <a href="https://github.com/aravindshajan6/valodex">valodex</a> ·
+    <a href="https://github.com/aravindshajan6/SportsLive">sportscast</a> ·
+    <a href="https://github.com/aravindshajan6/Ecommerce-Dashboard-Analytics">nova-commerce</a> ·
+    <a href="https://github.com/aravindshajan6/ecommerce-app">elecstore</a> ·
+    <a href="https://github.com/aravindshajan6/steaminc">steaminc</a>
+  </sub>
+</p>
 
+### `~/client-work`
 
+<a href="https://aravindshajan6.github.io/react-portfolio/#work">
+  <img src="assets/classified.svg" width="100%" alt="Client work under NDA: Argus, Reelform, Kinema, Sanctum, Blueprint, Loan Management System">
+</a>
+
+### `~/career`
+
+<img src="assets/timeline.svg" width="100%" alt="Full Stack Developer @ Synctric (2026–now), Full Stack Developer @ Radicle (2025), Backend Intern @ Transition (2024), Full Stack Developer @ Bixel Technolab (2023), B.Tech CS @ Prist University (2019–2023)">
+
+### `~/activity`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravindshajan6/aravindshajan6/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravindshajan6/aravindshajan6/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/aravindshajan6/aravindshajan6/output/snake-dark.svg" width="100%" alt="a snake eating my contribution graph">
+</picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aravindshajan6&background=0A0A0F&border=26262E&stroke=26262E&ring=7C6CFF&fire=FF8C42&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=7C6CFF&sideLabels=8A8A94&dates=8A8A94&border_radius=14" alt="GitHub streak">
+</p>
+
+<details>
+<summary><code>psst — my portfolio has a hidden terminal</code></summary>
+<br>
+
+Open [the portfolio](https://aravindshajan6.github.io/react-portfolio/) and hit <kbd>`</kbd> or <kbd>Ctrl</kbd>+<kbd>K</kbd>.
+Try `neofetch`, `matrix`, `cd work`… or go straight for `sudo hire aravind`.
+
+</details>
+
+<img src="assets/footer.svg" width="100%" alt="connection to aravind@github closed — thanks for scrolling">
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aravindshajan6&label=visitors&color=7c6cff&style=flat-square" alt="profile visitors"></p>
